@@ -198,7 +198,11 @@ A cybersecurity-focused project exploring an **Autonomous Cyber Security Operati
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivani-Meena07/Shivani-Meena07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivani-Meena07/Shivani-Meena07/gh-pages/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivani-Meena07/Shivani-Meena07/gh-pages/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Shivani-Meena07/Shivani-Meena07/gh-pages/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  </picture>
 </p>
 
 ---
