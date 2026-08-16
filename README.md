@@ -1,28 +1,248 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi👋, I'm Shivani Meena</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivani-meena07" alt="shivani-meena07" /></a> </p>
+<h3 align="center">CSE Student @ IGDTUW | Full-Stack Developer | AI & Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on [CLAIM](https://github.com/Shivani-Meena07/Claim)
-
-- 🌱 I’m currently learning **Cybersecurity, Ethical Hacking, AI/ML, and Advanced Full-Stack Development**
-
-- 👯 I’m looking to collaborate on **Open Source Cybersecurity & AI Projects**
-
-- 💬 Ask me about **React, Node.js, AI Integration, Full-Stack Development & Cybersecurity**
-
-- 📫 How to reach me **shivani30meena@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivani-meena-4b030128b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani-meena-4b030128b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivanimeena30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivanimeena30" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Shivani-Meena07">
+    <img src="https://komarev.com/ghpvc/?username=Shivani-Meena07&label=Profile%20Views&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Shivani-Meena07?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shivani-Meena07?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivani-meena-4b030128b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/shivanimeena30/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="mailto:shivani30meena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-meena07&show_icons=true&locale=en&layout=compact" alt="shivani-meena07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani-meena07&show_icons=true&locale=en" alt="shivani-meena07" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-meena07&" alt="shivani-meena07" /></p>
+I'm a Computer Science student at **Indira Gandhi Delhi Technical University for Women (IGDTUW)**, interested in building practical software and exploring the intersection of **AI, full-stack development, and cybersecurity**.
+
+* Currently working on AI-powered and cybersecurity-focused applications
+* Learning cybersecurity, ethical hacking, AI/ML, and advanced full-stack development
+* Interested in Generative AI and AI-powered applications
+* Working toward building a career in cybersecurity
+* Interested in hackathons, open-source projects, and technical communities
+* Open to collaborating on AI, cybersecurity, and open-source projects
+* Ask me about React, Node.js, AI integration, MongoDB, and full-stack development
+
+---
+
+## Currently Working On
+
+### PehraSetu
+
+A cybersecurity-focused project aimed at building an **Autonomous Cyber Security Operations Center (SOC)** for intelligent threat detection, monitoring, and response.
+
+**Focus:** Cybersecurity, SOC, AI, Threat Detection, Incident Response
+
+[View Project](https://github.com/Shivani-Meena07)
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### CLAIM
+
+AI-powered full-stack application with AI insights, tracking, chatbot functionality, reports, community features, and more.
+
+**Tech Stack**
+
+`React` `TypeScript` `Node.js` `Express` `MongoDB` `Gemini`
+
+[GitHub](https://github.com/Shivani-Meena07/Claim)
+
+</td>
+
+<td width="50%">
+
+### PassGrade
+
+AI-powered study assistant designed to transform notes and PDF materials into clear and useful summaries.
+
+**Tech Stack**
+
+`React` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Gemini`
+
+[GitHub](https://github.com/Shivani-Meena07)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### DataMind AI
+
+AI-focused project exploring **NL2SQL, RAG-based search, and natural-language interaction with data**.
+
+**Tech Stack**
+
+`Python` `Flask` `RAG` `NL2SQL`
+
+[GitHub](https://github.com/Shivani-Meena07)
+
+</td>
+
+<td width="50%">
+
+### PehraSetu
+
+A cybersecurity-focused project exploring an **Autonomous Cyber Security Operations Center** for intelligent threat detection and response.
+
+**Focus**
+
+`Cybersecurity` `SOC` `AI` `Threat Detection`
+
+[GitHub](https://github.com/Shivani-Meena07)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,git,github,linux" />
+</p>
+
+---
+
+## Areas of Interest
+
+* Generative AI and AI integration
+* Full-stack web development
+* Cybersecurity and ethical hacking
+* Security operations and threat detection
+* Open-source development
+* Problem solving and Data Structures & Algorithms
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivani-Meena07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Meena07&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Meena07&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivani-Meena07&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-Meena07&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shivani-Meena07/Shivani-Meena07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://github.com/Shivani-Meena07">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://leetcode.com/shivanimeena30/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivani-meena-4b030128b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## Current Goals
+
+* Build a strong foundation in cybersecurity and ethical hacking
+* Explore Generative AI and AI-powered applications
+* Strengthen Data Structures and Algorithms
+* Contribute to open-source projects
+* Participate in hackathons and technical communities
+* Build projects that solve real-world problems
+
+---
+
+## Let's Connect
+
+I'm open to discussing technology, projects, cybersecurity, AI, hackathons, and open-source development.
+
+<p align="center">
+  <a href="mailto:shivani30meena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shivani30meena%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivani-meena-4b030128b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shivani%20Meena-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building, learning, and exploring.</b>
+</p>
