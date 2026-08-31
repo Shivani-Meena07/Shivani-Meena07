@@ -162,35 +162,11 @@ A cybersecurity-focused project exploring an **Autonomous Cyber Security Operati
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivani-Meena07&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Meena07&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
-
----
 
 ## Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Meena07&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivani-Meena07&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani-Meena07&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ---
